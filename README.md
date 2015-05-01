@@ -1,2 +1,2 @@
-# Test 
-The homepage for TeamECO 
+# TeamECO(Everest Cleans Outdoors) 
+This repository houses the main webpage of TeamECO
