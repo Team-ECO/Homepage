@@ -4,5 +4,13 @@
 }
 
 .donate {
-  position: relative;
+  position: static;
+}
+
+.calendar {
+  position: center;
+}
+
+html {  
+  font-family: 'Source Code Pro', ;
 }
