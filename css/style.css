@@ -4,8 +4,7 @@
 }
 
 .donate {
-  height: 100%;
-  position: fixed;
+  float: left;
 }
 
 .calendar {
